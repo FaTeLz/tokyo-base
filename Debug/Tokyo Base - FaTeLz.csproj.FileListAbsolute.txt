@@ -1,0 +1,18 @@
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.exe.config
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.exe
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.pdb
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.csprojResolveAssemblyReference.cache
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo.Form1.resources
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo_Base___FaTeLz.Properties.Resources.resources
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.csproj.GenerateResource.Cache
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.exe
+C:\Users\alex2\AppData\Local\Temporary Projects\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.pdb
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.exe.config
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.exe
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.pdb
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.exe
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\bin\Debug\Tokyo Base - FaTeLz.pdb
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.csprojResolveAssemblyReference.cache
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo.Form1.resources
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo_Base___FaTeLz.Properties.Resources.resources
+C:\Users\alex2\OneDrive\Documents\Visual Studio 2015\Projects\Tokyo Base - FaTeLz\Tokyo Base - FaTeLz\obj\Debug\Tokyo Base - FaTeLz.csproj.GenerateResource.Cache
