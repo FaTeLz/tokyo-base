@@ -111,6 +111,7 @@ namespace Tokyo
                 headerRot = HeaderRotation;
                 Invalidate();
             }
+            features();
             godmode = godMode.Checked;
         }
 
